@@ -1,6 +1,6 @@
 # 🐧 aka "Arsenic 1-6" • Linux Ricer • Terminal Purist
 
-**Arsenic 1-6 (@mystikrysat)** — and I ain't ya local daft. Welcome to my GitHub, ig...  
+**Arsenic 1-6 (@mystik-krysat)** — and I ain't ya local daft. Welcome to my GitHub, ig...  
 > *"The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong one. 'Do it yourself'"*  
   
 That's **Linux** for you.  
@@ -22,13 +22,13 @@ R.I.P. Terry Davis
 🎧 Guess someone doesnt watch Youtube from the terminal `you're missing out buddy ol' pal`  
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mystikrysat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=200"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystikrysat&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mystik-krysat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=200"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystik-krysat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=mystikrysat&theme=tokyo-night&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mystikrysat&theme=tokyo-night&hide_border=true" />
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=mystik-krysat&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mystik-krysat&theme=tokyo-night&hide_border=true" />
 </picture>
 
 ## ✈️ Daily Workflow
